@@ -12,7 +12,7 @@ How to implement the server app?
       + (other?  suggestions welcome)
       + 
  
- ##Client (Front-End)
+##Client (Front-End)
 Lots of to choose from.
 +  html file with Jquery/Node/other to manipulate objects in the browser?
 +  just make use of Go's standard library `net/http`
